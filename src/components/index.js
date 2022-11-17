@@ -1,0 +1,13 @@
+export { default as Navbar } from "./Navbar";
+export { default as Footer } from "./Footer";
+export { default as Hero } from "./Hero";
+export { default as About } from "./About";
+export { default as FireFighting } from "./FireFighting";
+export { default as Speaking } from "./Speaking";
+export { default as EMS } from "./EMS";
+export { default as Gaming } from "./Gaming";
+export { default as Cars } from "./Cars";
+export { default as Vlog } from "./Vlog";
+export { default as Merch } from "./Merch";
+export { default as Causes } from "./Causes";
+export { default as ImgSlider } from "./ImgSLider";
