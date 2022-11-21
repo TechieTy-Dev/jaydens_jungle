@@ -53,7 +53,7 @@ export const speakingData = [
     id: "1",
     title: "Motivation",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1560439514-e960a3ef5019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -61,7 +61,7 @@ export const speakingData = [
     id: "2",
     title: "Motivation",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1560439514-e960a3ef5019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -69,7 +69,7 @@ export const speakingData = [
     id: "3",
     title: "Motivation",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1560439514-e960a3ef5019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -77,7 +77,7 @@ export const speakingData = [
     id: "4",
     title: "Motivation",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1560439514-e960a3ef5019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -88,7 +88,7 @@ export const gamingData = [
     id: "1",
     title: "Gaming Reactions",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium. ",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse?  ",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -96,7 +96,7 @@ export const gamingData = [
     id: "2",
     title: "Gaming Reactions",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -104,7 +104,7 @@ export const gamingData = [
     id: "3",
     title: "Gaming Reactions",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
@@ -181,7 +181,7 @@ export const vlogData = [
     id: "1",
     title: "Video 1",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
   },
@@ -189,7 +189,7 @@ export const vlogData = [
     id: "2",
     title: "Video 2",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
   },
@@ -197,7 +197,7 @@ export const vlogData = [
     id: "3",
     title: "Video 3",
     content:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? Doloribus repellat ad cum odio nihil quo molestias non laudantium accusantium.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequuntur molestias odit fuga ex officiis adipisci error eos esse? ",
     image:
       "https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
   },

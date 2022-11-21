@@ -16,7 +16,7 @@ const EMSCard = () => {
             <div className="card-box" key={emsData.id}>
               
               <h1 className="card-heading">{emsData.title}</h1>
-              <p className="card-content">{emsData.content}</p>
+              <p className="ems-card-content">{emsData.content}</p>
               <img src={emsData.image} alt="thumbnail for the video" className='card-img' />
              
             </div>
